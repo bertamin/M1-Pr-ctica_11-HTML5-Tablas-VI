@@ -1,0 +1,11 @@
+table{
+  width: 50%;
+  margin: auto;
+}
+table, tr, td {
+  border: 1px black solid; 
+  border-spacing: 15px;
+}
+tr, td{
+  padding: 15px;
+}
